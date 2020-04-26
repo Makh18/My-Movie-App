@@ -1,0 +1,37 @@
+.a{
+    text-align: center;
+}
+.mydiv{
+  background-color: rgb(214, 124, 124);
+  margin-top:30px;
+  
+  height: 1700px;
+  padding-top: 100px;
+  box-shadow: 5px 10px 8px 10px #b1afaf;
+}
+.b{
+  width: 500px;
+  margin:auto;
+  margin-bottom:20px;
+}
+.f{
+  margin-top: 30px;
+}
+.h{
+  margin-top:15px;
+}
+.myformtoadd{
+ width: 60%;  
+ margin: auto;
+ padding:20px;
+ margin-top:50px;
+ border:2px solid white;
+}
+.center{
+  margin:auto;
+  width: 60%;
+}
+.btcenter{
+  margin:auto;
+width: 20%;
+}
